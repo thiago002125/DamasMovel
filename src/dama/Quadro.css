@@ -1,0 +1,26 @@
+.square {
+    height: 100%;
+    width: 100px;
+    border: 1px solid black;
+}
+
+.painted {
+    background-color: black;
+}
+
+.disk {
+    width: 60px;
+    height: 60px;
+    border-radius: 33px;
+    margin: auto;
+    margin-top: auto;
+    margin-top: 17px;
+}
+
+.team-a {
+    background-color: red;
+}
+
+.team-b {
+    background-color: blue;
+}
